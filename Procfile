@@ -1,0 +1,1 @@
+web: gunicorn tbr3Api.wsgi --log-file -
